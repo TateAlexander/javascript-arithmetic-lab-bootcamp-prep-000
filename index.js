@@ -32,3 +32,7 @@ function makeInt(n){
   return parseInt(n, 10);
 }
 makeInt('4');
+
+function preserveDecimal(n){
+  return 
+}
