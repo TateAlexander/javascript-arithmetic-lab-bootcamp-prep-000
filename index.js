@@ -16,7 +16,7 @@ multiply(67, 82);
 function divide(a, b){
   return a /= b;
 }
-function inc(50, 54);
+divide(50, 54);
 
 function inc(n){
   return n++;
