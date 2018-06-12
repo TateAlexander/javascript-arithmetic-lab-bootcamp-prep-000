@@ -19,12 +19,12 @@ function divide(a, b){
 divide(50, 54);
 
 function inc(n){
-  return n++;
+  return n += 1;
 }
 inc(9);
 
 function dec(n){
-  return n--;
+  return n -= 1;
 }
 dec(4);
 
