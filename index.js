@@ -38,4 +38,4 @@ function preserveDecimal(n){
   
 }
 preserveDecimal('3.1415');
-preserveDecimal('mias big tities');
+preserveDecimal('Mia F');
