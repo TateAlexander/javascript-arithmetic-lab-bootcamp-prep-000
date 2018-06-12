@@ -31,4 +31,4 @@ dec(4);
 function makeInt(n){
   return parseInt(n);
 }
-makeInt('5', 35);
+makeInt('2', 10);
