@@ -34,5 +34,8 @@ function makeInt(n){
 makeInt('4');
 
 function preserveDecimal(n){
-  return 
+  return parseFloat(n);
+  
 }
+preserveDecimal('3.1415');
+preserveDecimal('mias big tities');
